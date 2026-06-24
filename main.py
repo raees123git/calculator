@@ -10,6 +10,11 @@ print("* : Multiplication")
 print("/ : Division")
 operation = input("Enter the operator (+, -, *, /): ")
 
+a="raees"
+wwe="wwe"
+er33d
+ff=554
+
 # 3. Perform the calculation and show the output
 print("\n--- Result ---")
 if operation == "+":
