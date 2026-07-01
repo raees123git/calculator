@@ -2,6 +2,9 @@
 num1 = float(input("Enter the first number: "))
 num2 = float(input("Enter the second number: "))
 
+a="arad"
+afd
+
 # 2. Ask the user what operation they want to perform
 print("\nChoose an operation:")
 print("+ : Addition")
