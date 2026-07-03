@@ -1,6 +1,7 @@
 # Take input from the user and convert it to an integer
 num = int(input("Enter a number: "))
 
+test="test--file"
 raees="zakir"
 ere=345656
 afdafs
