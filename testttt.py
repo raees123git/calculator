@@ -1,10 +1,9 @@
 # Take input from the user and convert it to an integer
 num = int(input("Enter a number: "))
 
-raees="zakir"
-ere=345656
-afdafs
-dsf=432
+wwe="wwe"
+name="raaess"
+class="ai"
 
 # Check if the number is divisible by 2
 if num % 2 == 0:
