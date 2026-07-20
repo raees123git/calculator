@@ -6,6 +6,9 @@ ere=345656
 afdafs
 dsf=432
 
+name="ui"
+asdf="ADf"
+
 # Check if the number is divisible by 2
 if num % 2 == 0:
     print(f"{num} is an Even number.")
